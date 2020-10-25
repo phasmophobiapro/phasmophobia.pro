@@ -4,7 +4,12 @@ title: Home
 nav_order: 1
 ---
 ## Welcome
-Hello and welcome to Phasmophobia Pro, aka P.Pro. W
+Hello and welcome to Phasmophobia Pro. We hope you're doing well. If you need any help and the search function on the site doesn't yield any results, please feel free to reach out on the Phasmophobia Pro Discord server.
+
+#### [Phasmophobia Pro Discord (Ours)](https://discord.gg/C7rXkAQ)
+#### [Official Phasmophobia Discord](https://discord.gg/QxvWuqX)
+#### [Phasmophobia on Steam](https://store.steampowered.com/app/739630/Phasmophobia)
+#### [Kinetic Games](https://kineticgames.co.uk/)
 
 ### Who We Are
 We're just gamers, and we like Phasmophobia. That's really about it. We're also not members of Kinetic Games, we're just members of the community.

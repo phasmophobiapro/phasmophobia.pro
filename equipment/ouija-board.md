@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ouija Board
-nav_order: 2
+parent: Equipment
 ---
 
 # Ouija Board

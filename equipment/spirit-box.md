@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Ouija Board
-nav_order: 4
+title: Spirit Box
+parent: Equipment
 ---
 
 # Spirit Box

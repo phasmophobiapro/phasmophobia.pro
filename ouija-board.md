@@ -22,6 +22,7 @@ nav_order: 2
 
 ## Known Questions
 Here's a list of recognized questions and what category they're classified under. This may not be fully updated, but this is a rough list.
+
 | Victim                                      | Age              | Death                          | Room Info                        | Location                    |
 |---------------------------------------------|------------------|--------------------------------|----------------------------------|-----------------------------|
 | Who did you kill                            | How old are you  | How long have you been dead    | How many are in this room        | Where are you               |

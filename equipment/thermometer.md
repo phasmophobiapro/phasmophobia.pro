@@ -28,7 +28,9 @@ A simple thermometer. Please read more [here](https://phasmophobia.fandom.com/wi
 
 ## Temperature Clamps
 *The following are the minimum possible temperatures fort the environment, can fluctuate and may not be perfect*
+
 Freezing Ghost: -10°C
+
 Regular Ghost: 5°C
 
 Default Starting Temp: 18°C (this I'm not 100% sure about, it's in there as this but it could be changed)

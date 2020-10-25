@@ -19,3 +19,6 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 ## Google Analytics
 ga_tracking: "G-1RVNFX6Q92"
 ga_tracking_anonymize_ip: true
+
+plugins:
+  - jekyll-seo-tag

@@ -8,7 +8,7 @@ parent: Maps
 {: .no_toc }
 
 ## First Floor
-![First](assets/asylum/first.png)
+![First](/assets/maps/asylum/first.png)
 
 ## Basement
-![Basement](assets/asylum/basement.png)
+![Basement](/assets/maps/asylum/basement.png)

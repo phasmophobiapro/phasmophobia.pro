@@ -20,5 +20,9 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 ga_tracking: "G-1RVNFX6Q92"
 ga_tracking_anonymize_ip: true
 
+# SEO
+tagline: "Dedicated to providing players of Phasmophobia the most information they can to understand the game at a deeper level."
+description: "Phasmophobia Pro is a central location for players of Phasmophobia who are looking to understand the game at a deeper level. Phasmophobia Pro documents technical information to provide the hardcore players who want to know more information about the ghosts, equipment, maps, and more.
+
 plugins:
   - jekyll-seo-tag

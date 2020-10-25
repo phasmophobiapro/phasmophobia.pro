@@ -2,6 +2,15 @@ title: "PhasmophobiaPro"
 remote_theme: pmarsceill/just-the-docs
 # color_scheme: "dark"
 search_enabled: true
+logo: "/ghost.png"
+
+# Top Right Links
+aux_links:
+  "Our Discord":
+    - "https://discord.gg/C7rXkAQ"
+  #"Our Twitter":
+  #  - "https://twitter.com/PhasmophobiaPro"
+aux_links_new_tab: true
 
 # Footer Last Edit
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

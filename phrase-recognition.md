@@ -24,6 +24,8 @@ Phasmophobia uses your local voice to text system to allow you to communicate in
 
 ## Known Phrases
 
+|                          |                                 |                         |                    |              |
+|--------------------------|---------------------------------|-------------------------|--------------------|--------------|
 | Can you speak            | Are you alone                   | Do you want us to leave | I'm scared         | Show me      |
 | Can you speak to us      | Can we speak                    | Can I ask you           | I am scared        | Fuck         |
 | Open a door              | would like to speak to you      | Can you make a sound    | scared             | Bitch        |

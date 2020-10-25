@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Equipment
+title: Tidbits
 nav_order: 99
 has_children: true
 permalink: tidbits

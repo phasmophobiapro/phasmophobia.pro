@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Hunts
+title: Ghost Hunts
 parent: Tidbits
 ---
 
-# Spirit Box
+# Ghost Hunts
 {: .no_toc }
 
 ## Table of contents

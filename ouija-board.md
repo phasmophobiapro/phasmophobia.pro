@@ -38,6 +38,21 @@ The Ouija Board has a 1 in 3 chance of despawning from the map. If the current b
 | Who died                                    |                  |                                | Who is in this room              | Are you near                |
 |                                             |                  |                                |                                  | Are you around              |
 
+## Ghost Responses
+### Requirements
+For the current ghost to respond, the following requirements must be fulfilled.
+- It must be in use
+- The current player has to be "in a room"
+- The ghost must be in a room
+- They must not be in the "outside room" (not determined yet)
+- The player and the board must be within 5 meters of each other
+
+### Failed Response
+Each time you ask a question, there's a 1 in 3 chance it will fail, unless it's the YouTuber version. If the question fails the following will happen:
+- the lights in the current room will flicker
+- if the setup phase is active, it will cancel and the chance for a hunt will begin
+- your insanity will raise by 40
+
 ## Spawn Locations
 *This list is the [Vector3](https://docs.unity3d.com/ScriptReference/Vector3.html) coordinates of the spawn points of location*
 

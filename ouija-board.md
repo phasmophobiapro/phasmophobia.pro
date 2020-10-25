@@ -20,7 +20,8 @@ nav_order: 2
 >
 > -- <cite>[Phasmophobia Fandom](https://phasmophobia.fandom.com/wiki/Ouija_Board)</cite>
 
-Th
+### Spawning
+The Ouija Board has a 1 in 3 chance of despawning from the map. If the current branch of the game is the YouTuber version then this chance of despawning is disabled to always guarantee the existance of the Ouija Board.
 
 ## Known Questions
 *Here's a list of recognized questions and what category they're classified under. This may not be fully updated, but this is a rough list.*

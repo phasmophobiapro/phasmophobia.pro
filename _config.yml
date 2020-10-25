@@ -26,3 +26,4 @@ description: "Phasmophobia Pro is a central location for players of Phasmophobia
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap

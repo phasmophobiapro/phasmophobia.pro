@@ -2,3 +2,11 @@ title: "PhasmophobiaPro"
 remote_theme: pmarsceill/just-the-docs
 # color_scheme: "dark"
 search_enabled: true
+
+# Footer Last Edit
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+## Google Analytics
+ga_tracking: "G-1RVNFX6Q92"
+ga_tracking_anonymize_ip: true

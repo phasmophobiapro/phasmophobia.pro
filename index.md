@@ -4,7 +4,7 @@ title: Home
 nav_order: 1
 ---
 ## Welcome
-Hello and welcome to Phasmophobia Pro. We hope you're doing well. If you need any help and the search function on the site doesn't yield any results, please feel free to reach out on the Phasmophobia Pro Discord server.
+Hello and welcome to Phasmophobia Pro, a central location for all the technical data mined from Phasmophobia to help players get a deeper and more technical understanding of the jobs and more. We hope you're doing well. If you need any help and the search function on the site doesn't yield any results, please feel free to reach out on the Phasmophobia Pro Discord server.
 
 #### [Phasmophobia Pro Discord (Ours)](https://discord.gg/C7rXkAQ)
 #### [Official Phasmophobia Discord](https://discord.gg/QxvWuqX)
@@ -15,10 +15,13 @@ Hello and welcome to Phasmophobia Pro. We hope you're doing well. If you need an
 We're just gamers, and we like Phasmophobia. That's really about it. We're also not members of Kinetic Games, we're just members of the community.
 
 ### What P.Pro is
-It's a resource to help players understand the game in a deeper way and understand how things interact with each other.
+- It's a dumping ground for things we mine, data mining.
+- It's a resource to help players understand the game in a deeper way and understand how things interact with each other.
+- It can be more in depth technical information now suited for all players.
 
 ### What P.Pro is not
-It is **not a cheating/hacking resource**. We do not condone cheating in the game for the purpose of destruction or any other malicious intent. We want to help make the game better, not worse.
+- It's not a wiki. If you want a wiki for Phasmophobia please check out the [Phasmophobia Fandom](https://phasmophobia.fandom.com/wiki/Phasmophobia_Wiki). *Please note, we may provide similar information and even link back to the wiki depending. The wiki has much more general and some information that's more technical.*
+- It is **not a cheating/hacking resource**. We do not condone cheating in the game for the purpose of destruction or any other malicious intent. We want to help make the game better, not worse.
 
 ### FAQ
 #### How do you all find the information?

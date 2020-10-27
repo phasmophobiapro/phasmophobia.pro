@@ -2,6 +2,7 @@
 layout: default
 title: Phrase Recognition
 nav_order: 3
+description: Learn more about Phasmophobia's phrase recognition system including how it works, known phrases, and more...
 ---
 
 # Phrase Recognition

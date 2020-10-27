@@ -2,6 +2,7 @@
 layout: default
 title: Ouija Board
 parent: Equipment
+description: "Find out how to use the Ouija Board in Phasmophobia including: when it spawns, where it spawns, question list, ghost responses, and more..."
 ---
 
 # Ouija Board

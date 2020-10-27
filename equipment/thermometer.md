@@ -2,6 +2,7 @@
 layout: default
 title: Thermometer
 parent: Equipment
+description: Information regarding the thermometer in Phasmophobia including how it works, glitches with it, temperature information, and variations.
 ---
 
 # Thermometer

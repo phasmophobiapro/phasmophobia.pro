@@ -2,6 +2,7 @@
 layout: default
 title: Spirit Box
 parent: Equipment
+description: Information regarding the Spirit Box in Phasmophobia including questions and responses.
 ---
 
 # Spirit Box

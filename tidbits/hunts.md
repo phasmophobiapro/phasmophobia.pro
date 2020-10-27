@@ -2,6 +2,7 @@
 layout: default
 title: Ghost Hunts
 parent: Tidbits
+description: More in-depth information regarding when the ghosts hunt in Phasmophobia.
 ---
 
 # Ghost Hunts
